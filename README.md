@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I pursued following projects as hobby
+Pursued following projects as hobby
 - Creating web exploits (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits)
 - Implementing 3d graphics library from scratch using mathematics and Euler angles
 - Created patterns from randomness using noise algorithms
 
-Achievements at work work: 
+Achievements at work: 
 - Developing scalable low latency & high availability system for displaying legal disclosures to customers
 - Designed and integrated automated acceptance tests into the CI/CD pipeline for microservices, accelerating test
 cycles and enhancing software quality
