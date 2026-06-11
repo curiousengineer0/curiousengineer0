@@ -2,7 +2,7 @@
 
 Pursued following projects as hobby
 - Implementing 3d graphics library from scratch using mathematics and Euler angles
-- Created patterns from randomness using noise algorithms [link](https://github.com/curiousengineer0/pixel-noise-algo)
+- Created patterns from randomness using noise algorithms [click here](https://github.com/curiousengineer0/pixel-noise-algo)
 - Creating web exploits (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits)
 
 Achievements at work: 
