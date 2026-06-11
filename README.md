@@ -1,14 +1,12 @@
 ## Hi there 👋
 
 Pursued following projects as hobby
-- Creating web exploits (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits)
 - Implementing 3d graphics library from scratch using mathematics and Euler angles
-- Created patterns from randomness using noise algorithms
+- Created patterns from randomness using noise algorithms [link](https://github.com/curiousengineer0/pixel-noise-algo)
+- Creating web exploits (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits)
 
 Achievements at work: 
-- Developing scalable low latency & high availability system for displaying legal disclosures to customers
-- Designed and integrated automated acceptance tests into the CI/CD pipeline for microservices, accelerating test
-cycles and enhancing software quality
+- Developed scalable low latency & high availability system for displaying legal disclosures to customers
 - Developed Apache Airflow workflows to orchestrate event-driven system reducing AWS Fargate compute by 90%
 - Developing C code for functional safety of QNX Kernel
 - Implementing Template Matching Algorithm in Python for Computer Vision at Carleton University Research
